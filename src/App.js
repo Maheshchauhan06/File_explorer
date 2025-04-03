@@ -1,4 +1,4 @@
-import Folder from "../Folder";
+import Folder from "./Folder";
 import "./styles.css";
 import React, { useState } from "react";
 
